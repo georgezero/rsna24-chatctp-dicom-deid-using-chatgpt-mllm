@@ -17,7 +17,7 @@
 
 ## Outline
 
-### 1. Session Intro (DeID intro) - George
+### 1. Session Intro - George
 
 ### 2. *NEW* DeID tools from RSNA - Adam
 
@@ -54,7 +54,8 @@
 
 :bulb: Llama3.2-Vision-11b
 
-![image]()
+<img width="1702" alt="image" src="https://github.com/user-attachments/assets/7d05a88c-6672-4716-ae86-9f7906f21b4c">
+
 
 ### 6. Wrap-Up - George
 

@@ -56,6 +56,35 @@
 
 <img width="1702" alt="image" src="https://github.com/user-attachments/assets/7d05a88c-6672-4716-ae86-9f7906f21b4c">
 
+<br/>
+
+**REFERENCES:**
+
+#### Ollama (LLM server)
+
+https://ollama.com/
+
+#### Open WebUI (Web app used with Ollama)
+
+https://openwebui.com/
+
+#### Anything LLM (Desktop app used with Ollama)
+
+https://anythingllm.com/
+
+#### LM Studio (Desktop App / LLaMA.cpp as LLM server)
+
+https://lmstudio.ai/
+
+
+#### Collama (Ollama + Google Colab -- free GPU)
+
+https://github.com/5aharsh/collama/
+
+#### Tutorial: Install Ollama + Open WebUI on Mac / Linux / Windows (WSL)
+
+https://www.saltyoldgeek.com/posts/ollama-llama3-openwebui/
+
 
 ### 6. Wrap-Up - George
 

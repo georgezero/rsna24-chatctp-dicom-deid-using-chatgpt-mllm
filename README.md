@@ -19,11 +19,22 @@
 
 ### 1. Session Intro - George
 
-### 2. *NEW* DeID tools from RSNA - Adam
-
-**Anonymizer2**
-   
 ### 2. DICOM intro (DICOM tag deid issues) - Errol
+
+### 3. *NEW* DeID tools from RSNA - Adam
+- Presentation
+- RSNA Anonymizer2
+   - Available for download on the RSNA Github page:
+      - https://github.com/RSNA/Anonymizer
+   - Other RSNA research tools
+      - https://www.rsna.org/research/imaging-research-tools
+- Report De-identifier
+   - HuggingFace
+      - https://huggingface.co/StanfordAIMI/stanford-deidentifier-with-radiology-reports-and-i2b2
+   - GitHub Repository
+      - https://github.com/MIDRC/Stanford_Penn_MIDRC_Deidentifier
+   - MIDRC Tools
+      - https://www.midrc.org/algorithms
    
 ### 3. [Hands-On] DICOM Tags Exploration with LLMs - Hui-Ming
 

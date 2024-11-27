@@ -36,7 +36,7 @@
    - MIDRC Tools
       - https://www.midrc.org/algorithms
    
-### 3. [Hands-On] DICOM Tags Exploration with LLMs - Hui-Ming
+### 4a. [Hands-On] DICOM Tags Exploration with LLMs - Hui-Ming
 
 **DICOM Tags Exploration with ChatGPT and other LLMs**
 
@@ -48,20 +48,20 @@
 
 ![image]()
 
-### 3. [Hands-On] DICOM Image with (Fake) Burned-in PHI Exploration with Multimodal LLMs - Chinmay
+### 4b. [Hands-On] DICOM Image with (Fake) Burned-in PHI Exploration with Multimodal LLMs - Chinmay
 
 **Using ChatGPT Vision Model (GPT-4o) to examine radiology images with burned-in PHI**
 
-(pre-DeID) [MD.ai Chat LINK]
-
-(post-DeID) [MD.ai Chat LINK]
-
-:bulb: Example of image fake burned-in PHI with Mulitmodal LLMs:
-
-![image]()
+- [Hands-on Link](https://rsna.md.ai/reporting/share/report_XrgqexKGxm)
 
 
-### 4. [OPEN SOURCE LLMs] Using local Multimodal LLMs for PHI detection on images - George
+:bulb: [Example images](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/) with fake burned-in PHI:
+
+| Chest Xray  |  Ultrasound   |  CT Abdomen  |
+|:-----------:|:-------------:|:------------:|
+|[![chest-xray](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/chest-xray.png)](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/chest-xray.png) | [![ultrasound](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ultrasound.png)](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ultrasound.png) | [![ct-abdomen](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ct-abdomen.png)](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ct-abdomen.png) |
+
+### 5. [OPEN SOURCE LLMs] Using local Multimodal LLMs for PHI detection on images - George
 
 :bulb: Llama3.2-Vision-11b
 
@@ -99,6 +99,8 @@ https://github.com/5aharsh/collama/
 https://www.saltyoldgeek.com/posts/ollama-llama3-openwebui/
 
 ### 6. Wrap-Up - George / Adam
+
+---
 
 ### Appendix
 

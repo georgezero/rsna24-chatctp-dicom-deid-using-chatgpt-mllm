@@ -68,6 +68,9 @@
 <img width="1702" alt="image" src="https://github.com/user-attachments/assets/7d05a88c-6672-4716-ae86-9f7906f21b4c">
 
 <br/>
+<br/>
+
+[Using Open Source Local Multimodal LLMs (SLIDES)](https://docs.google.com/presentation/d/e/2PACX-1vTXn8hMDJihlYWl1oUB2fhnCQIM0BXzRXsNh6sx7K0wE3UYEQYVkAS8DH1ZxYAvYis_qQKa5nVeloS1/pub)
 
 **REFERENCES:**
 
@@ -87,7 +90,6 @@ https://anythingllm.com/
 
 https://lmstudio.ai/
 
-
 #### Collama (Ollama + Google Colab -- free GPU)
 
 https://github.com/5aharsh/collama/
@@ -96,8 +98,7 @@ https://github.com/5aharsh/collama/
 
 https://www.saltyoldgeek.com/posts/ollama-llama3-openwebui/
 
-
-### 6. Wrap-Up - George
+### 6. Wrap-Up - George / Adam
 
 ### Appendix
 

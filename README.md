@@ -22,7 +22,7 @@
 ### 2. DICOM intro (DICOM tag deid issues) - Errol
 
 ### 3. *NEW* DeID tools from RSNA - Adam
-- [Presentation](https://drive.google.com/file/d/1ESB_y9whSxuIUgTPO-IGyvT4aTjAGiIA/view?usp=drive_link)
+- [Presentation](https://drive.google.com/file/d/1ESB_y9whSxuIUgTPO-IGyvT4aTjAGiIA/view?usp=sharing)
 - RSNA Anonymizer2
    - Available for download on the RSNA Github page:
       - https://github.com/RSNA/Anonymizer

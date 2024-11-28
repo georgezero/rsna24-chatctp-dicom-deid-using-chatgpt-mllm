@@ -20,6 +20,7 @@
 ### 1. Session Intro - George
 
 ### 2. DICOM intro (DICOM tag deid issues) - Errol
+- [Presentation](https://drive.google.com/file/d/1fpCwhNB6JHphbP1z2kSBOXLCOQB2SEuO/view?usp=drive_link)
 
 ### 3. *NEW* DeID tools from RSNA - Adam
 - [Presentation](https://drive.google.com/file/d/1ESB_y9whSxuIUgTPO-IGyvT4aTjAGiIA/view?usp=sharing)
@@ -38,15 +39,25 @@
    
 ### 4a. [Hands-On] DICOM Tags Exploration with LLMs - Hui-Ming
 
-**DICOM Tags Exploration with ChatGPT and other LLMs**
+**DICOM Tags Exploration with ChatGPT**
+- DICOM Metadata Tags with (Fake) PHI using GPT
+   - [Example 1](https://chatgpt.com/share/6747d0fd-393c-800e-bb32-07e8688f19e9)
+   - [Example 2](https://chatgpt.com/share/6747d108-70e4-800e-a95e-105e6e82b111)
+- Radiology Report Deidentification with (Fake) PHI using GPT
+   - [Example 1](https://chatgpt.com/share/6748643d-5ed0-800e-a714-acb1395d56d9)
+   - [Example 2](https://chatgpt.com/share/67486455-7098-800e-b5c3-679258b9f383)
 
-(pre-DeID) [CHATGPT LINK]
 
-(post-DeID) [CHATGPT LINK]
-
-:bulb: Example of DICOM tags exploration with LLMs:
-
-![image]()
+:bulb: Example prompts:
+- *DICOM Metadata*
+   - Tell me about a bit about the patient and the exam performed.
+   - Analyze the DICOM metadata and give me all the values that contains personal health information. Show this in a table format.
+   - Identify all the DICOM metadata containing potential personal health information (PHI). These can be directly identifying information (such as name, unique ID, etc) or indirectly identifying information (such as demographic, other ID, etc). Do not include fields that does not have a PHI risk such as technical details. Show this in table format with the field name and value.
+   - Deidentify the DICOM metadata containing personal health information using fake information. Show the values before and after in table format.
+   - Anonymize all the potential personal health information in the DICOM metadata. Show the values before and after in table format.
+- *Radiology Report*
+   - Analyze the radiology report and give me a list of all the personal health information
+   - Anonymize all the potential personal health information on the radiology report
 
 ### 4b. [Hands-On] DICOM Image with (Fake) Burned-in PHI Exploration with Multimodal LLMs - Chinmay
 

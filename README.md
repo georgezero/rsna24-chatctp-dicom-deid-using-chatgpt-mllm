@@ -49,15 +49,44 @@
 
 
 :bulb: Example prompts:
-- *DICOM Metadata*
-   - Tell me about a bit about the patient and the exam performed.
-   - Analyze the DICOM metadata and give me all the values that contains personal health information. Show this in a table format.
-   - Identify all the DICOM metadata containing potential personal health information (PHI). These can be directly identifying information (such as name, unique ID, etc) or indirectly identifying information (such as demographic, other ID, etc). Do not include fields that does not have a PHI risk such as technical details. Show this in table format with the field name and value.
-   - Deidentify the DICOM metadata containing personal health information using fake information. Show the values before and after in table format.
-   - Anonymize all the potential personal health information in the DICOM metadata. Show the values before and after in table format.
-- *Radiology Report*
-   - Analyze the radiology report and give me a list of all the personal health information
-   - Anonymize all the potential personal health information on the radiology report
+
+**DICOM Metadata**
+
+```
+Tell me about a bit about the patient and the exam performed.
+```
+```
+Analyze the DICOM metadata and give me all the values that contain personal health information.
+
+Show this in a table format.
+```
+```
+Identify all the DICOM metadata containing potential personal health information (PHI).
+These can be directly identifying information (such as name, unique ID, etc)or indirectly
+identifying information (such as demographic, other ID, etc).
+
+Do not include fields that does not have a PHI risk such as technical details.
+
+Show this in table format with the field name and value.
+```
+```
+Deidentify the DICOM metadata containing personal health information using fake information.
+
+Show the values before and after in table format.
+```
+```
+Anonymize all the potential personal health information in the DICOM metadata.
+
+Show the values before and after in table format.
+```
+     
+**Radiology Report**
+```
+Analyze the radiology report and give me a list of all the personal health information.
+```
+```
+Anonymize all the potential personal health information on the radiology report.
+```
 
 ### 4b. [Hands-On] DICOM Image with (Fake) Burned-in PHI Exploration with Multimodal LLMs - Chinmay
 
@@ -85,19 +114,19 @@
 
 **REFERENCES:**
 
-#### Ollama (LLM server)
+#### :heart: Ollama (LLM server) :heart:
 
 https://ollama.com/
 
-#### Open WebUI (Web app used with Ollama)
+#### :earth_africa: Open WebUI (Web app used with Ollama) :earth_africa:
 
 https://openwebui.com/
 
-#### Anything LLM (Desktop app used with Ollama)
+#### Anything LLM (Desktop app with Ollama)
 
 https://anythingllm.com/
 
-#### LM Studio (Desktop App / LLaMA.cpp as LLM server)
+#### :fire: LM Studio (Desktop App with LLaMA.cpp as LLM server) :fire:
 
 https://lmstudio.ai/
 

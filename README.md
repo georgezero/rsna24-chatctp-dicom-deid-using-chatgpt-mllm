@@ -117,15 +117,10 @@ https://www.saltyoldgeek.com/posts/ollama-llama3-openwebui/
 
 #### Use ChatGPT to generate a python script to deid DICOM tags
 
-This URL forwards to the latest Google Colab notebook for DICOM DeID coded by GPT-4.
-
-https:/
+This URL forwards to the latest Google Colab notebook for DICOM DeID coded by ChatGPT - [Colab notebook](https://colab.research.google.com/drive/1-q99nLG2-oC3P5BjDrPS7JXVpOS0VrEq?usp=sharing)
 
 :bulb: Example of python notebook output:
 
-![image]()
-
-![image]()
-
+![example-chatgpt-output](images/6.%20Appendix/example-chatgpt-output.png)
 
 

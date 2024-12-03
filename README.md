@@ -20,7 +20,7 @@
 ### 1. Session Intro - George
 
 ### 2. DICOM intro (DICOM tag deid issues) - Errol
-- [Presentation](https://drive.google.com/file/d/1fpCwhNB6JHphbP1z2kSBOXLCOQB2SEuO/view?usp=drive_link)
+- [Presentation](https://drive.google.com/file/d/1fpCwhNB6JHphbP1z2kSBOXLCOQB2SEuO/view?usp=sharing)
 
 ### 3. *NEW* DeID tools from RSNA - Adam
 - [Presentation](https://drive.google.com/file/d/1ESB_y9whSxuIUgTPO-IGyvT4aTjAGiIA/view?usp=sharing)
